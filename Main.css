@@ -1,0 +1,76 @@
+body {
+	background-color: grey;
+}
+
+/** Navigation Bar*/
+#nav {
+	Background-color: turquoise;
+	height: 80px;
+}
+#nav h5 {
+	display: block;
+	background-color: green;
+	float: left;
+	height: 75%;
+	width: 20%;
+	margin-top: auto;
+	margin-bottom:auto;
+	margin-left: 4%;
+	text-align: center;
+	margin-right: auto;
+}
+#nav h5 a {
+	display: block;
+	margin-top: 5%;
+	font-size: 24pt;
+	height: 100%;
+	width: 100%;
+}
+/** Navigation bar End*/
+
+/** About me (Home Page)*/
+#ABM {
+	background-color: red;
+	width: 80%;
+	height: 600px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#ABM h1 {
+	margin-left: 40%;
+	margin-right: auto;
+	margin-top: 2%;
+}
+#ABM p {
+margin-left: 1%;
+margin-right: 1%;	
+}
+/** About me End (Home Page)*/
+
+/** Meaty Section (Certifications)*/
+#BigList {
+	background-color: red;
+	width: 80%;
+	height: 600px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#BigList h1 {
+	margin-left: 23%;
+	margin-right: auto;
+	margin-top: 2%;
+}
+#BigList p {
+margin-left: 1%;
+margin-right: 1%;	
+}
+
+.image1 {
+	Width: 50%;
+	height: 50%;
+	background-color: red;
+	margin-left: 23%;
+	margin-top: 3%;
+}
